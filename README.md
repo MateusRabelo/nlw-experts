@@ -1,2 +1,9 @@
 # nlw-experts
-learnig results of this mini-course (nlw-experts)
+Result of what I did in this mini-course
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Github
